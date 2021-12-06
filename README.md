@@ -1,3 +1,4 @@
-# Anomaly-detection-using-Machine-Learning
+## Anomaly-detection-using-Machine-Learning
 
-Dataset: http://idsdata.ding.unisannio.it/datasets.html
+USB-IDS-1 Dataset (2021): http://idsdata.ding.unisannio.it/datasets.html
+CIC-IDS-17 Dataset (2017): https://www.unb.ca/cic/datasets/ids-2017.html
